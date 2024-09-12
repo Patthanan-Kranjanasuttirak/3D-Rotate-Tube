@@ -16,7 +16,7 @@ button:focus {
 
 /* -------- BODY DISPLAY --------- */
 body {
-  background-color: #f0b5ff;
+  background-color: #b5dfff;
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -57,11 +57,13 @@ body {
 }
 
 .container .box span i:nth-child(1) {
-  color: #ffb4f9;
+  font-family: fantasy;
+  color: #f8ffb4;
 }
 
 .container .box span i:nth-child(2) {
-  color: #95b4ee;
+  font-family: fantasy;
+  color: #dc95ee;
 }
 
 @keyframes animate {
